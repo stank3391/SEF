@@ -1,3 +1,6 @@
 void train(){
- printf("train); 
+ printf("train"); 
+}
+void predict(){
+ printf("predict");
 }
